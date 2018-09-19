@@ -1,0 +1,14 @@
+{
+  "name": "flyhh-webrequest",
+  "version": "1.0.0",
+  "description": "request simple warpper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
